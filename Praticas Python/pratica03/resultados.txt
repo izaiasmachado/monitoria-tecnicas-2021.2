@@ -1,0 +1,4 @@
+O fatorial de 1 é 1
+O fatorial de 3 é 6
+O fatorial de 0 é 1
+O fatorial de 0 é 1
